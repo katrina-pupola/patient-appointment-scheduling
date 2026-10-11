@@ -1,0 +1,2644 @@
+{
+ "name": "L2_25d_300p",
+ "slot_minutes": 15,
+ "horizon_slots": 48,
+ "doctors": [
+  {
+   "id": 0,
+   "name": "Arsts_1",
+   "specialties": [
+    "gimenes_arsts",
+    "pediatrs"
+   ],
+   "work_start": 8,
+   "work_end": 32
+  },
+  {
+   "id": 1,
+   "name": "Arsts_2",
+   "specialties": [
+    "kardiologs",
+    "gimenes_arsts"
+   ],
+   "work_start": 0,
+   "work_end": 24
+  },
+  {
+   "id": 2,
+   "name": "Arsts_3",
+   "specialties": [
+    "neirologs",
+    "kardiologs"
+   ],
+   "work_start": 0,
+   "work_end": 32
+  },
+  {
+   "id": 3,
+   "name": "Arsts_4",
+   "specialties": [
+    "dermatologs"
+   ],
+   "work_start": 0,
+   "work_end": 32
+  },
+  {
+   "id": 4,
+   "name": "Arsts_5",
+   "specialties": [
+    "pediatrs"
+   ],
+   "work_start": 0,
+   "work_end": 32
+  },
+  {
+   "id": 5,
+   "name": "Arsts_6",
+   "specialties": [
+    "kardiologs",
+    "pediatrs"
+   ],
+   "work_start": 0,
+   "work_end": 24
+  },
+  {
+   "id": 6,
+   "name": "Arsts_7",
+   "specialties": [
+    "kardiologs"
+   ],
+   "work_start": 4,
+   "work_end": 28
+  },
+  {
+   "id": 7,
+   "name": "Arsts_8",
+   "specialties": [
+    "gimenes_arsts"
+   ],
+   "work_start": 0,
+   "work_end": 32
+  },
+  {
+   "id": 8,
+   "name": "Arsts_9",
+   "specialties": [
+    "neirologs"
+   ],
+   "work_start": 0,
+   "work_end": 24
+  },
+  {
+   "id": 9,
+   "name": "Arsts_10",
+   "specialties": [
+    "pediatrs",
+    "dermatologs"
+   ],
+   "work_start": 0,
+   "work_end": 24
+  },
+  {
+   "id": 10,
+   "name": "Arsts_11",
+   "specialties": [
+    "neirologs",
+    "gimenes_arsts"
+   ],
+   "work_start": 0,
+   "work_end": 32
+  },
+  {
+   "id": 11,
+   "name": "Arsts_12",
+   "specialties": [
+    "pediatrs"
+   ],
+   "work_start": 8,
+   "work_end": 32
+  },
+  {
+   "id": 12,
+   "name": "Arsts_13",
+   "specialties": [
+    "kardiologs",
+    "gimenes_arsts"
+   ],
+   "work_start": 8,
+   "work_end": 40
+  },
+  {
+   "id": 13,
+   "name": "Arsts_14",
+   "specialties": [
+    "pediatrs"
+   ],
+   "work_start": 8,
+   "work_end": 32
+  },
+  {
+   "id": 14,
+   "name": "Arsts_15",
+   "specialties": [
+    "gimenes_arsts"
+   ],
+   "work_start": 0,
+   "work_end": 32
+  },
+  {
+   "id": 15,
+   "name": "Arsts_16",
+   "specialties": [
+    "neirologs"
+   ],
+   "work_start": 16,
+   "work_end": 40
+  },
+  {
+   "id": 16,
+   "name": "Arsts_17",
+   "specialties": [
+    "kardiologs"
+   ],
+   "work_start": 0,
+   "work_end": 32
+  },
+  {
+   "id": 17,
+   "name": "Arsts_18",
+   "specialties": [
+    "gimenes_arsts"
+   ],
+   "work_start": 0,
+   "work_end": 24
+  },
+  {
+   "id": 18,
+   "name": "Arsts_19",
+   "specialties": [
+    "kardiologs",
+    "dermatologs"
+   ],
+   "work_start": 4,
+   "work_end": 28
+  },
+  {
+   "id": 19,
+   "name": "Arsts_20",
+   "specialties": [
+    "dermatologs"
+   ],
+   "work_start": 8,
+   "work_end": 32
+  },
+  {
+   "id": 20,
+   "name": "Arsts_21",
+   "specialties": [
+    "gimenes_arsts"
+   ],
+   "work_start": 16,
+   "work_end": 40
+  },
+  {
+   "id": 21,
+   "name": "Arsts_22",
+   "specialties": [
+    "kardiologs",
+    "neirologs"
+   ],
+   "work_start": 16,
+   "work_end": 40
+  },
+  {
+   "id": 22,
+   "name": "Arsts_23",
+   "specialties": [
+    "gimenes_arsts",
+    "dermatologs"
+   ],
+   "work_start": 8,
+   "work_end": 32
+  },
+  {
+   "id": 23,
+   "name": "Arsts_24",
+   "specialties": [
+    "gimenes_arsts"
+   ],
+   "work_start": 0,
+   "work_end": 32
+  },
+  {
+   "id": 24,
+   "name": "Arsts_25",
+   "specialties": [
+    "gimenes_arsts"
+   ],
+   "work_start": 0,
+   "work_end": 32
+  }
+ ],
+ "patients": [
+  {
+   "id": 0,
+   "age": 39,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 4,
+   "preferred": 1
+  },
+  {
+   "id": 1,
+   "age": 56,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 1,
+   "preferred": 24
+  },
+  {
+   "id": 2,
+   "age": 73,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 4,
+   "preferred": 8
+  },
+  {
+   "id": 3,
+   "age": 71,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 4
+  },
+  {
+   "id": 4,
+   "age": 28,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 2,
+   "preferred": 33
+  },
+  {
+   "id": 5,
+   "age": 82,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 9
+  },
+  {
+   "id": 6,
+   "age": 20,
+   "urgency": 3,
+   "specialty": "dermatologs",
+   "duration": 4,
+   "preferred": 5
+  },
+  {
+   "id": 7,
+   "age": 56,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 23
+  },
+  {
+   "id": 8,
+   "age": 44,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 1,
+   "preferred": 39
+  },
+  {
+   "id": 9,
+   "age": 6,
+   "urgency": 1,
+   "specialty": "pediatrs",
+   "duration": 1,
+   "preferred": 27
+  },
+  {
+   "id": 10,
+   "age": 95,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 30
+  },
+  {
+   "id": 11,
+   "age": 31,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 28
+  },
+  {
+   "id": 12,
+   "age": 83,
+   "urgency": 2,
+   "specialty": "kardiologs",
+   "duration": 3,
+   "preferred": 30
+  },
+  {
+   "id": 13,
+   "age": 76,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 1,
+   "preferred": 12
+  },
+  {
+   "id": 14,
+   "age": 45,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 3,
+   "preferred": 1
+  },
+  {
+   "id": 15,
+   "age": 85,
+   "urgency": 2,
+   "specialty": "neirologs",
+   "duration": 1,
+   "preferred": 38
+  },
+  {
+   "id": 16,
+   "age": 43,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 20
+  },
+  {
+   "id": 17,
+   "age": 43,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 1,
+   "preferred": 39
+  },
+  {
+   "id": 18,
+   "age": 59,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 4,
+   "preferred": 25
+  },
+  {
+   "id": 19,
+   "age": 88,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 23
+  },
+  {
+   "id": 20,
+   "age": 59,
+   "urgency": 2,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 22
+  },
+  {
+   "id": 21,
+   "age": 31,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 23
+  },
+  {
+   "id": 22,
+   "age": 57,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 1,
+   "preferred": 25
+  },
+  {
+   "id": 23,
+   "age": 85,
+   "urgency": 2,
+   "specialty": "neirologs",
+   "duration": 4,
+   "preferred": 22
+  },
+  {
+   "id": 24,
+   "age": 64,
+   "urgency": 2,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 12
+  },
+  {
+   "id": 25,
+   "age": 28,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 4
+  },
+  {
+   "id": 26,
+   "age": 71,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 3,
+   "preferred": 17
+  },
+  {
+   "id": 27,
+   "age": 82,
+   "urgency": 3,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 6
+  },
+  {
+   "id": 28,
+   "age": 49,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 29
+  },
+  {
+   "id": 29,
+   "age": 94,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 2,
+   "preferred": 12
+  },
+  {
+   "id": 30,
+   "age": 32,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 2,
+   "preferred": 10
+  },
+  {
+   "id": 31,
+   "age": 2,
+   "urgency": 2,
+   "specialty": "pediatrs",
+   "duration": 3,
+   "preferred": 8
+  },
+  {
+   "id": 32,
+   "age": 51,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 29
+  },
+  {
+   "id": 33,
+   "age": 54,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 4,
+   "preferred": 5
+  },
+  {
+   "id": 34,
+   "age": 26,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 2
+  },
+  {
+   "id": 35,
+   "age": 35,
+   "urgency": 2,
+   "specialty": "dermatologs",
+   "duration": 2,
+   "preferred": 23
+  },
+  {
+   "id": 36,
+   "age": 47,
+   "urgency": 3,
+   "specialty": "dermatologs",
+   "duration": 3,
+   "preferred": 5
+  },
+  {
+   "id": 37,
+   "age": 59,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 1,
+   "preferred": 7
+  },
+  {
+   "id": 38,
+   "age": 73,
+   "urgency": 3,
+   "specialty": "kardiologs",
+   "duration": 1,
+   "preferred": 4
+  },
+  {
+   "id": 39,
+   "age": 26,
+   "urgency": 2,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 14
+  },
+  {
+   "id": 40,
+   "age": 11,
+   "urgency": 1,
+   "specialty": "pediatrs",
+   "duration": 3,
+   "preferred": 6
+  },
+  {
+   "id": 41,
+   "age": 40,
+   "urgency": 3,
+   "specialty": "dermatologs",
+   "duration": 3,
+   "preferred": 8
+  },
+  {
+   "id": 42,
+   "age": 49,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 30
+  },
+  {
+   "id": 43,
+   "age": 28,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 4,
+   "preferred": 8
+  },
+  {
+   "id": 44,
+   "age": 40,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 28
+  },
+  {
+   "id": 45,
+   "age": 92,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 2,
+   "preferred": 18
+  },
+  {
+   "id": 46,
+   "age": 12,
+   "urgency": 1,
+   "specialty": "pediatrs",
+   "duration": 2,
+   "preferred": 31
+  },
+  {
+   "id": 47,
+   "age": 85,
+   "urgency": 2,
+   "specialty": "kardiologs",
+   "duration": 1,
+   "preferred": 17
+  },
+  {
+   "id": 48,
+   "age": 34,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 17
+  },
+  {
+   "id": 49,
+   "age": 17,
+   "urgency": 1,
+   "specialty": "pediatrs",
+   "duration": 1,
+   "preferred": 13
+  },
+  {
+   "id": 50,
+   "age": 35,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 30
+  },
+  {
+   "id": 51,
+   "age": 22,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 32
+  },
+  {
+   "id": 52,
+   "age": 21,
+   "urgency": 3,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 2
+  },
+  {
+   "id": 53,
+   "age": 41,
+   "urgency": 2,
+   "specialty": "dermatologs",
+   "duration": 2,
+   "preferred": 8
+  },
+  {
+   "id": 54,
+   "age": 90,
+   "urgency": 2,
+   "specialty": "neirologs",
+   "duration": 2,
+   "preferred": 6
+  },
+  {
+   "id": 55,
+   "age": 94,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 23
+  },
+  {
+   "id": 56,
+   "age": 58,
+   "urgency": 3,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 7
+  },
+  {
+   "id": 57,
+   "age": 79,
+   "urgency": 2,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 22
+  },
+  {
+   "id": 58,
+   "age": 72,
+   "urgency": 3,
+   "specialty": "neirologs",
+   "duration": 2,
+   "preferred": 0
+  },
+  {
+   "id": 59,
+   "age": 11,
+   "urgency": 2,
+   "specialty": "pediatrs",
+   "duration": 1,
+   "preferred": 14
+  },
+  {
+   "id": 60,
+   "age": 78,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 19
+  },
+  {
+   "id": 61,
+   "age": 20,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 18
+  },
+  {
+   "id": 62,
+   "age": 55,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 31
+  },
+  {
+   "id": 63,
+   "age": 81,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 3,
+   "preferred": 28
+  },
+  {
+   "id": 64,
+   "age": 31,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 38
+  },
+  {
+   "id": 65,
+   "age": 91,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 34
+  },
+  {
+   "id": 66,
+   "age": 36,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 2
+  },
+  {
+   "id": 67,
+   "age": 57,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 1,
+   "preferred": 25
+  },
+  {
+   "id": 68,
+   "age": 43,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 4,
+   "preferred": 0
+  },
+  {
+   "id": 69,
+   "age": 45,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 1
+  },
+  {
+   "id": 70,
+   "age": 34,
+   "urgency": 3,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 4
+  },
+  {
+   "id": 71,
+   "age": 60,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 2,
+   "preferred": 5
+  },
+  {
+   "id": 72,
+   "age": 1,
+   "urgency": 1,
+   "specialty": "pediatrs",
+   "duration": 3,
+   "preferred": 6
+  },
+  {
+   "id": 73,
+   "age": 71,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 4,
+   "preferred": 27
+  },
+  {
+   "id": 74,
+   "age": 62,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 4,
+   "preferred": 27
+  },
+  {
+   "id": 75,
+   "age": 43,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 4,
+   "preferred": 18
+  },
+  {
+   "id": 76,
+   "age": 38,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 25
+  },
+  {
+   "id": 77,
+   "age": 57,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 38
+  },
+  {
+   "id": 78,
+   "age": 45,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 1,
+   "preferred": 31
+  },
+  {
+   "id": 79,
+   "age": 48,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 2,
+   "preferred": 5
+  },
+  {
+   "id": 80,
+   "age": 88,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 2,
+   "preferred": 29
+  },
+  {
+   "id": 81,
+   "age": 5,
+   "urgency": 2,
+   "specialty": "pediatrs",
+   "duration": 2,
+   "preferred": 30
+  },
+  {
+   "id": 82,
+   "age": 61,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 10
+  },
+  {
+   "id": 83,
+   "age": 14,
+   "urgency": 1,
+   "specialty": "pediatrs",
+   "duration": 3,
+   "preferred": 12
+  },
+  {
+   "id": 84,
+   "age": 52,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 20
+  },
+  {
+   "id": 85,
+   "age": 48,
+   "urgency": 3,
+   "specialty": "dermatologs",
+   "duration": 3,
+   "preferred": 6
+  },
+  {
+   "id": 86,
+   "age": 13,
+   "urgency": 2,
+   "specialty": "pediatrs",
+   "duration": 2,
+   "preferred": 19
+  },
+  {
+   "id": 87,
+   "age": 75,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 0
+  },
+  {
+   "id": 88,
+   "age": 43,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 0
+  },
+  {
+   "id": 89,
+   "age": 82,
+   "urgency": 3,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 7
+  },
+  {
+   "id": 90,
+   "age": 40,
+   "urgency": 2,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 28
+  },
+  {
+   "id": 91,
+   "age": 43,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 4
+  },
+  {
+   "id": 92,
+   "age": 58,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 4,
+   "preferred": 10
+  },
+  {
+   "id": 93,
+   "age": 53,
+   "urgency": 3,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 0
+  },
+  {
+   "id": 94,
+   "age": 49,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 34
+  },
+  {
+   "id": 95,
+   "age": 25,
+   "urgency": 3,
+   "specialty": "neirologs",
+   "duration": 2,
+   "preferred": 8
+  },
+  {
+   "id": 96,
+   "age": 17,
+   "urgency": 2,
+   "specialty": "pediatrs",
+   "duration": 2,
+   "preferred": 10
+  },
+  {
+   "id": 97,
+   "age": 83,
+   "urgency": 3,
+   "specialty": "kardiologs",
+   "duration": 3,
+   "preferred": 2
+  },
+  {
+   "id": 98,
+   "age": 90,
+   "urgency": 3,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 6
+  },
+  {
+   "id": 99,
+   "age": 41,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 22
+  },
+  {
+   "id": 100,
+   "age": 69,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 2,
+   "preferred": 17
+  },
+  {
+   "id": 101,
+   "age": 78,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 12
+  },
+  {
+   "id": 102,
+   "age": 26,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 2,
+   "preferred": 18
+  },
+  {
+   "id": 103,
+   "age": 88,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 11
+  },
+  {
+   "id": 104,
+   "age": 48,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 28
+  },
+  {
+   "id": 105,
+   "age": 84,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 7
+  },
+  {
+   "id": 106,
+   "age": 23,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 28
+  },
+  {
+   "id": 107,
+   "age": 31,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 31
+  },
+  {
+   "id": 108,
+   "age": 34,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 8
+  },
+  {
+   "id": 109,
+   "age": 84,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 4,
+   "preferred": 27
+  },
+  {
+   "id": 110,
+   "age": 78,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 4,
+   "preferred": 26
+  },
+  {
+   "id": 111,
+   "age": 41,
+   "urgency": 2,
+   "specialty": "neirologs",
+   "duration": 1,
+   "preferred": 12
+  },
+  {
+   "id": 112,
+   "age": 37,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 1,
+   "preferred": 33
+  },
+  {
+   "id": 113,
+   "age": 64,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 1,
+   "preferred": 10
+  },
+  {
+   "id": 114,
+   "age": 71,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 4,
+   "preferred": 19
+  },
+  {
+   "id": 115,
+   "age": 19,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 9
+  },
+  {
+   "id": 116,
+   "age": 38,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 2,
+   "preferred": 31
+  },
+  {
+   "id": 117,
+   "age": 13,
+   "urgency": 1,
+   "specialty": "pediatrs",
+   "duration": 1,
+   "preferred": 18
+  },
+  {
+   "id": 118,
+   "age": 81,
+   "urgency": 3,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 7
+  },
+  {
+   "id": 119,
+   "age": 23,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 4,
+   "preferred": 6
+  },
+  {
+   "id": 120,
+   "age": 12,
+   "urgency": 1,
+   "specialty": "pediatrs",
+   "duration": 2,
+   "preferred": 27
+  },
+  {
+   "id": 121,
+   "age": 65,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 11
+  },
+  {
+   "id": 122,
+   "age": 24,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 3
+  },
+  {
+   "id": 123,
+   "age": 35,
+   "urgency": 2,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 23
+  },
+  {
+   "id": 124,
+   "age": 82,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 22
+  },
+  {
+   "id": 125,
+   "age": 42,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 17
+  },
+  {
+   "id": 126,
+   "age": 1,
+   "urgency": 1,
+   "specialty": "pediatrs",
+   "duration": 1,
+   "preferred": 7
+  },
+  {
+   "id": 127,
+   "age": 82,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 3
+  },
+  {
+   "id": 128,
+   "age": 83,
+   "urgency": 3,
+   "specialty": "neirologs",
+   "duration": 2,
+   "preferred": 8
+  },
+  {
+   "id": 129,
+   "age": 56,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 1,
+   "preferred": 17
+  },
+  {
+   "id": 130,
+   "age": 23,
+   "urgency": 2,
+   "specialty": "dermatologs",
+   "duration": 2,
+   "preferred": 18
+  },
+  {
+   "id": 131,
+   "age": 87,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 1
+  },
+  {
+   "id": 132,
+   "age": 84,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 3,
+   "preferred": 8
+  },
+  {
+   "id": 133,
+   "age": 51,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 19
+  },
+  {
+   "id": 134,
+   "age": 64,
+   "urgency": 2,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 14
+  },
+  {
+   "id": 135,
+   "age": 87,
+   "urgency": 2,
+   "specialty": "neirologs",
+   "duration": 2,
+   "preferred": 5
+  },
+  {
+   "id": 136,
+   "age": 1,
+   "urgency": 1,
+   "specialty": "pediatrs",
+   "duration": 3,
+   "preferred": 21
+  },
+  {
+   "id": 137,
+   "age": 19,
+   "urgency": 2,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 29
+  },
+  {
+   "id": 138,
+   "age": 17,
+   "urgency": 2,
+   "specialty": "pediatrs",
+   "duration": 1,
+   "preferred": 0
+  },
+  {
+   "id": 139,
+   "age": 89,
+   "urgency": 2,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 21
+  },
+  {
+   "id": 140,
+   "age": 46,
+   "urgency": 2,
+   "specialty": "kardiologs",
+   "duration": 3,
+   "preferred": 35
+  },
+  {
+   "id": 141,
+   "age": 76,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 25
+  },
+  {
+   "id": 142,
+   "age": 92,
+   "urgency": 2,
+   "specialty": "neirologs",
+   "duration": 4,
+   "preferred": 27
+  },
+  {
+   "id": 143,
+   "age": 30,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 3,
+   "preferred": 33
+  },
+  {
+   "id": 144,
+   "age": 81,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 2,
+   "preferred": 38
+  },
+  {
+   "id": 145,
+   "age": 7,
+   "urgency": 2,
+   "specialty": "pediatrs",
+   "duration": 3,
+   "preferred": 35
+  },
+  {
+   "id": 146,
+   "age": 49,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 21
+  },
+  {
+   "id": 147,
+   "age": 56,
+   "urgency": 2,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 25
+  },
+  {
+   "id": 148,
+   "age": 60,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 1,
+   "preferred": 39
+  },
+  {
+   "id": 149,
+   "age": 40,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 10
+  },
+  {
+   "id": 150,
+   "age": 47,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 3
+  },
+  {
+   "id": 151,
+   "age": 91,
+   "urgency": 3,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 1
+  },
+  {
+   "id": 152,
+   "age": 22,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 30
+  },
+  {
+   "id": 153,
+   "age": 83,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 2,
+   "preferred": 7
+  },
+  {
+   "id": 154,
+   "age": 34,
+   "urgency": 2,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 3
+  },
+  {
+   "id": 155,
+   "age": 62,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 8
+  },
+  {
+   "id": 156,
+   "age": 91,
+   "urgency": 2,
+   "specialty": "kardiologs",
+   "duration": 1,
+   "preferred": 10
+  },
+  {
+   "id": 157,
+   "age": 74,
+   "urgency": 2,
+   "specialty": "dermatologs",
+   "duration": 2,
+   "preferred": 23
+  },
+  {
+   "id": 158,
+   "age": 64,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 29
+  },
+  {
+   "id": 159,
+   "age": 14,
+   "urgency": 1,
+   "specialty": "pediatrs",
+   "duration": 1,
+   "preferred": 27
+  },
+  {
+   "id": 160,
+   "age": 42,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 25
+  },
+  {
+   "id": 161,
+   "age": 57,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 17
+  },
+  {
+   "id": 162,
+   "age": 72,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 3,
+   "preferred": 2
+  },
+  {
+   "id": 163,
+   "age": 31,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 5
+  },
+  {
+   "id": 164,
+   "age": 35,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 1,
+   "preferred": 28
+  },
+  {
+   "id": 165,
+   "age": 27,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 3,
+   "preferred": 35
+  },
+  {
+   "id": 166,
+   "age": 62,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 23
+  },
+  {
+   "id": 167,
+   "age": 86,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 3
+  },
+  {
+   "id": 168,
+   "age": 24,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 27
+  },
+  {
+   "id": 169,
+   "age": 14,
+   "urgency": 2,
+   "specialty": "pediatrs",
+   "duration": 3,
+   "preferred": 7
+  },
+  {
+   "id": 170,
+   "age": 71,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 2,
+   "preferred": 22
+  },
+  {
+   "id": 171,
+   "age": 80,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 25
+  },
+  {
+   "id": 172,
+   "age": 57,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 28
+  },
+  {
+   "id": 173,
+   "age": 51,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 34
+  },
+  {
+   "id": 174,
+   "age": 35,
+   "urgency": 3,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 0
+  },
+  {
+   "id": 175,
+   "age": 17,
+   "urgency": 1,
+   "specialty": "pediatrs",
+   "duration": 2,
+   "preferred": 18
+  },
+  {
+   "id": 176,
+   "age": 58,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 9
+  },
+  {
+   "id": 177,
+   "age": 51,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 11
+  },
+  {
+   "id": 178,
+   "age": 21,
+   "urgency": 3,
+   "specialty": "neirologs",
+   "duration": 3,
+   "preferred": 1
+  },
+  {
+   "id": 179,
+   "age": 14,
+   "urgency": 1,
+   "specialty": "pediatrs",
+   "duration": 2,
+   "preferred": 36
+  },
+  {
+   "id": 180,
+   "age": 30,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 16
+  },
+  {
+   "id": 181,
+   "age": 40,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 4,
+   "preferred": 15
+  },
+  {
+   "id": 182,
+   "age": 71,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 10
+  },
+  {
+   "id": 183,
+   "age": 76,
+   "urgency": 2,
+   "specialty": "neirologs",
+   "duration": 1,
+   "preferred": 8
+  },
+  {
+   "id": 184,
+   "age": 73,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 2
+  },
+  {
+   "id": 185,
+   "age": 41,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 3,
+   "preferred": 26
+  },
+  {
+   "id": 186,
+   "age": 23,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 36
+  },
+  {
+   "id": 187,
+   "age": 34,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 28
+  },
+  {
+   "id": 188,
+   "age": 67,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 20
+  },
+  {
+   "id": 189,
+   "age": 45,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 25
+  },
+  {
+   "id": 190,
+   "age": 56,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 30
+  },
+  {
+   "id": 191,
+   "age": 74,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 2,
+   "preferred": 9
+  },
+  {
+   "id": 192,
+   "age": 70,
+   "urgency": 2,
+   "specialty": "neirologs",
+   "duration": 2,
+   "preferred": 2
+  },
+  {
+   "id": 193,
+   "age": 90,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 4,
+   "preferred": 26
+  },
+  {
+   "id": 194,
+   "age": 38,
+   "urgency": 3,
+   "specialty": "neirologs",
+   "duration": 3,
+   "preferred": 1
+  },
+  {
+   "id": 195,
+   "age": 29,
+   "urgency": 2,
+   "specialty": "neirologs",
+   "duration": 1,
+   "preferred": 8
+  },
+  {
+   "id": 196,
+   "age": 44,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 26
+  },
+  {
+   "id": 197,
+   "age": 62,
+   "urgency": 3,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 6
+  },
+  {
+   "id": 198,
+   "age": 71,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 19
+  },
+  {
+   "id": 199,
+   "age": 65,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 5
+  },
+  {
+   "id": 200,
+   "age": 2,
+   "urgency": 1,
+   "specialty": "pediatrs",
+   "duration": 2,
+   "preferred": 33
+  },
+  {
+   "id": 201,
+   "age": 34,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 16
+  },
+  {
+   "id": 202,
+   "age": 6,
+   "urgency": 2,
+   "specialty": "pediatrs",
+   "duration": 1,
+   "preferred": 33
+  },
+  {
+   "id": 203,
+   "age": 85,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 2
+  },
+  {
+   "id": 204,
+   "age": 81,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 8
+  },
+  {
+   "id": 205,
+   "age": 89,
+   "urgency": 2,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 8
+  },
+  {
+   "id": 206,
+   "age": 88,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 2,
+   "preferred": 13
+  },
+  {
+   "id": 207,
+   "age": 84,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 9
+  },
+  {
+   "id": 208,
+   "age": 67,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 35
+  },
+  {
+   "id": 209,
+   "age": 1,
+   "urgency": 2,
+   "specialty": "pediatrs",
+   "duration": 2,
+   "preferred": 20
+  },
+  {
+   "id": 210,
+   "age": 32,
+   "urgency": 3,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 8
+  },
+  {
+   "id": 211,
+   "age": 31,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 1,
+   "preferred": 11
+  },
+  {
+   "id": 212,
+   "age": 33,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 0
+  },
+  {
+   "id": 213,
+   "age": 86,
+   "urgency": 3,
+   "specialty": "neirologs",
+   "duration": 1,
+   "preferred": 7
+  },
+  {
+   "id": 214,
+   "age": 19,
+   "urgency": 3,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 1
+  },
+  {
+   "id": 215,
+   "age": 71,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 4,
+   "preferred": 17
+  },
+  {
+   "id": 216,
+   "age": 58,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 35
+  },
+  {
+   "id": 217,
+   "age": 69,
+   "urgency": 3,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 2
+  },
+  {
+   "id": 218,
+   "age": 74,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 2,
+   "preferred": 14
+  },
+  {
+   "id": 219,
+   "age": 41,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 8
+  },
+  {
+   "id": 220,
+   "age": 30,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 1,
+   "preferred": 38
+  },
+  {
+   "id": 221,
+   "age": 40,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 12
+  },
+  {
+   "id": 222,
+   "age": 49,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 1,
+   "preferred": 14
+  },
+  {
+   "id": 223,
+   "age": 57,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 10
+  },
+  {
+   "id": 224,
+   "age": 85,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 4,
+   "preferred": 22
+  },
+  {
+   "id": 225,
+   "age": 24,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 4
+  },
+  {
+   "id": 226,
+   "age": 52,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 4,
+   "preferred": 8
+  },
+  {
+   "id": 227,
+   "age": 38,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 5
+  },
+  {
+   "id": 228,
+   "age": 9,
+   "urgency": 1,
+   "specialty": "pediatrs",
+   "duration": 3,
+   "preferred": 25
+  },
+  {
+   "id": 229,
+   "age": 48,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 1,
+   "preferred": 36
+  },
+  {
+   "id": 230,
+   "age": 38,
+   "urgency": 3,
+   "specialty": "neirologs",
+   "duration": 1,
+   "preferred": 4
+  },
+  {
+   "id": 231,
+   "age": 78,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 2,
+   "preferred": 7
+  },
+  {
+   "id": 232,
+   "age": 74,
+   "urgency": 2,
+   "specialty": "kardiologs",
+   "duration": 3,
+   "preferred": 33
+  },
+  {
+   "id": 233,
+   "age": 19,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 14
+  },
+  {
+   "id": 234,
+   "age": 27,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 1
+  },
+  {
+   "id": 235,
+   "age": 66,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 20
+  },
+  {
+   "id": 236,
+   "age": 78,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 30
+  },
+  {
+   "id": 237,
+   "age": 36,
+   "urgency": 2,
+   "specialty": "kardiologs",
+   "duration": 1,
+   "preferred": 19
+  },
+  {
+   "id": 238,
+   "age": 95,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 18
+  },
+  {
+   "id": 239,
+   "age": 30,
+   "urgency": 2,
+   "specialty": "kardiologs",
+   "duration": 1,
+   "preferred": 12
+  },
+  {
+   "id": 240,
+   "age": 87,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 16
+  },
+  {
+   "id": 241,
+   "age": 41,
+   "urgency": 2,
+   "specialty": "dermatologs",
+   "duration": 2,
+   "preferred": 25
+  },
+  {
+   "id": 242,
+   "age": 30,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 15
+  },
+  {
+   "id": 243,
+   "age": 38,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 12
+  },
+  {
+   "id": 244,
+   "age": 53,
+   "urgency": 3,
+   "specialty": "dermatologs",
+   "duration": 3,
+   "preferred": 0
+  },
+  {
+   "id": 245,
+   "age": 89,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 23
+  },
+  {
+   "id": 246,
+   "age": 56,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 18
+  },
+  {
+   "id": 247,
+   "age": 27,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 4,
+   "preferred": 13
+  },
+  {
+   "id": 248,
+   "age": 5,
+   "urgency": 1,
+   "specialty": "pediatrs",
+   "duration": 3,
+   "preferred": 1
+  },
+  {
+   "id": 249,
+   "age": 67,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 1,
+   "preferred": 15
+  },
+  {
+   "id": 250,
+   "age": 61,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 3,
+   "preferred": 1
+  },
+  {
+   "id": 251,
+   "age": 69,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 3,
+   "preferred": 18
+  },
+  {
+   "id": 252,
+   "age": 21,
+   "urgency": 2,
+   "specialty": "neirologs",
+   "duration": 3,
+   "preferred": 29
+  },
+  {
+   "id": 253,
+   "age": 10,
+   "urgency": 1,
+   "specialty": "pediatrs",
+   "duration": 4,
+   "preferred": 29
+  },
+  {
+   "id": 254,
+   "age": 53,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 6
+  },
+  {
+   "id": 255,
+   "age": 93,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 4
+  },
+  {
+   "id": 256,
+   "age": 72,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 3,
+   "preferred": 27
+  },
+  {
+   "id": 257,
+   "age": 49,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 32
+  },
+  {
+   "id": 258,
+   "age": 19,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 34
+  },
+  {
+   "id": 259,
+   "age": 94,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 2,
+   "preferred": 35
+  },
+  {
+   "id": 260,
+   "age": 65,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 34
+  },
+  {
+   "id": 261,
+   "age": 52,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 7
+  },
+  {
+   "id": 262,
+   "age": 45,
+   "urgency": 3,
+   "specialty": "dermatologs",
+   "duration": 2,
+   "preferred": 2
+  },
+  {
+   "id": 263,
+   "age": 89,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 8
+  },
+  {
+   "id": 264,
+   "age": 37,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 25
+  },
+  {
+   "id": 265,
+   "age": 64,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 3
+  },
+  {
+   "id": 266,
+   "age": 28,
+   "urgency": 3,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 8
+  },
+  {
+   "id": 267,
+   "age": 72,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 4,
+   "preferred": 32
+  },
+  {
+   "id": 268,
+   "age": 77,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 18
+  },
+  {
+   "id": 269,
+   "age": 67,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 6
+  },
+  {
+   "id": 270,
+   "age": 20,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 29
+  },
+  {
+   "id": 271,
+   "age": 19,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 32
+  },
+  {
+   "id": 272,
+   "age": 46,
+   "urgency": 2,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 21
+  },
+  {
+   "id": 273,
+   "age": 8,
+   "urgency": 1,
+   "specialty": "pediatrs",
+   "duration": 4,
+   "preferred": 13
+  },
+  {
+   "id": 274,
+   "age": 11,
+   "urgency": 1,
+   "specialty": "pediatrs",
+   "duration": 1,
+   "preferred": 38
+  },
+  {
+   "id": 275,
+   "age": 27,
+   "urgency": 3,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 2
+  },
+  {
+   "id": 276,
+   "age": 41,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 1
+  },
+  {
+   "id": 277,
+   "age": 59,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 1,
+   "preferred": 38
+  },
+  {
+   "id": 278,
+   "age": 77,
+   "urgency": 2,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 11
+  },
+  {
+   "id": 279,
+   "age": 1,
+   "urgency": 2,
+   "specialty": "pediatrs",
+   "duration": 1,
+   "preferred": 21
+  },
+  {
+   "id": 280,
+   "age": 55,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 4,
+   "preferred": 32
+  },
+  {
+   "id": 281,
+   "age": 29,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 15
+  },
+  {
+   "id": 282,
+   "age": 91,
+   "urgency": 2,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 0
+  },
+  {
+   "id": 283,
+   "age": 72,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 8
+  },
+  {
+   "id": 284,
+   "age": 81,
+   "urgency": 2,
+   "specialty": "neirologs",
+   "duration": 3,
+   "preferred": 21
+  },
+  {
+   "id": 285,
+   "age": 21,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 29
+  },
+  {
+   "id": 286,
+   "age": 56,
+   "urgency": 2,
+   "specialty": "kardiologs",
+   "duration": 1,
+   "preferred": 35
+  },
+  {
+   "id": 287,
+   "age": 39,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 35
+  },
+  {
+   "id": 288,
+   "age": 56,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 14
+  },
+  {
+   "id": 289,
+   "age": 86,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 30
+  },
+  {
+   "id": 290,
+   "age": 30,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 20
+  },
+  {
+   "id": 291,
+   "age": 60,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 35
+  },
+  {
+   "id": 292,
+   "age": 70,
+   "urgency": 2,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 31
+  },
+  {
+   "id": 293,
+   "age": 48,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 1,
+   "preferred": 15
+  },
+  {
+   "id": 294,
+   "age": 87,
+   "urgency": 1,
+   "specialty": "neirologs",
+   "duration": 2,
+   "preferred": 25
+  },
+  {
+   "id": 295,
+   "age": 46,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 1,
+   "preferred": 31
+  },
+  {
+   "id": 296,
+   "age": 12,
+   "urgency": 3,
+   "specialty": "pediatrs",
+   "duration": 1,
+   "preferred": 3
+  },
+  {
+   "id": 297,
+   "age": 49,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 24
+  },
+  {
+   "id": 298,
+   "age": 38,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 31
+  },
+  {
+   "id": 299,
+   "age": 31,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 19
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "name": "T1_2d_6p",
+ "slot_minutes": 15,
+ "horizon_slots": 48,
+ "doctors": [
+  {
+   "id": 0,
+   "name": "Arsts_1",
+   "specialties": [
+    "gimenes_arsts",
+    "kardiologs"
+   ],
+   "work_start": 16,
+   "work_end": 40
+  },
+  {
+   "id": 1,
+   "name": "Arsts_2",
+   "specialties": [
+    "kardiologs",
+    "pediatrs"
+   ],
+   "work_start": 0,
+   "work_end": 32
+  }
+ ],
+ "patients": [
+  {
+   "id": 0,
+   "age": 30,
+   "urgency": 2,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 24
+  },
+  {
+   "id": 1,
+   "age": 18,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 2,
+   "preferred": 17
+  },
+  {
+   "id": 2,
+   "age": 31,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 4,
+   "preferred": 1
+  },
+  {
+   "id": 3,
+   "age": 19,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 4,
+   "preferred": 24
+  },
+  {
+   "id": 4,
+   "age": 1,
+   "urgency": 2,
+   "specialty": "pediatrs",
+   "duration": 2,
+   "preferred": 28
+  },
+  {
+   "id": 5,
+   "age": 62,
+   "urgency": 3,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 3
+  }
+ ]
+}

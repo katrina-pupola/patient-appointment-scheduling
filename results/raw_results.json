@@ -1,0 +1,3125 @@
+[
+ {
+  "label": "exact",
+  "instance": "T1_2d_6p",
+  "seed": 0,
+  "extra": true,
+  "cost": 96.0,
+  "time": 4.286404082999979,
+  "info": 278802
+ },
+ {
+  "label": "exact",
+  "instance": "T2_2d_8p",
+  "seed": 0,
+  "extra": true,
+  "cost": 94.0,
+  "time": 1.7639768969999636,
+  "info": 39628
+ },
+ {
+  "label": "exact",
+  "instance": "T3_3d_10p",
+  "seed": 0,
+  "extra": false,
+  "cost": 53.0,
+  "time": 601.0078883409999,
+  "info": 27780219
+ },
+ {
+  "label": "greedy",
+  "instance": "T1_2d_6p",
+  "seed": 0,
+  "extra": null,
+  "cost": 102.0,
+  "time": 0.00044882800000323186,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 54.0,
+   "deviation_minutes_avg": 60.0,
+   "overtime_slots": 1,
+   "idle_slots": 14,
+   "total": 102.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T1_2d_6p",
+  "seed": 0,
+  "extra": null,
+  "cost": 102.0,
+  "time": 0.0021511059999852478,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 54.0,
+   "deviation_minutes_avg": 60.0,
+   "overtime_slots": 1,
+   "idle_slots": 14,
+   "total": 102.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T1_2d_6p",
+  "seed": 0,
+  "extra": 0.95,
+  "cost": 96.0,
+  "time": 0.5707697739999844,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 48.0,
+   "deviation_minutes_avg": 45.0,
+   "overtime_slots": 1,
+   "idle_slots": 14,
+   "total": 96.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T1_2d_6p",
+  "seed": 1,
+  "extra": null,
+  "cost": 102.0,
+  "time": 0.0018016070000044238,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 58.0,
+   "deviation_minutes_avg": 70.0,
+   "overtime_slots": 1,
+   "idle_slots": 12,
+   "total": 102.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T1_2d_6p",
+  "seed": 1,
+  "extra": 0.95,
+  "cost": 96.0,
+  "time": 0.5300836349999827,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 48.0,
+   "deviation_minutes_avg": 45.0,
+   "overtime_slots": 1,
+   "idle_slots": 14,
+   "total": 96.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T1_2d_6p",
+  "seed": 2,
+  "extra": null,
+  "cost": 102.0,
+  "time": 0.001827285999979722,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 58.0,
+   "deviation_minutes_avg": 70.0,
+   "overtime_slots": 1,
+   "idle_slots": 12,
+   "total": 102.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T1_2d_6p",
+  "seed": 2,
+  "extra": 0.95,
+  "cost": 96.0,
+  "time": 0.6359874820000186,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 48.0,
+   "deviation_minutes_avg": 45.0,
+   "overtime_slots": 1,
+   "idle_slots": 14,
+   "total": 96.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T1_2d_6p",
+  "seed": 3,
+  "extra": null,
+  "cost": 102.0,
+  "time": 0.0018600289999994857,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 54.0,
+   "deviation_minutes_avg": 60.0,
+   "overtime_slots": 1,
+   "idle_slots": 14,
+   "total": 102.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T1_2d_6p",
+  "seed": 3,
+  "extra": 0.95,
+  "cost": 96.0,
+  "time": 0.5536663510000039,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 48.0,
+   "deviation_minutes_avg": 45.0,
+   "overtime_slots": 1,
+   "idle_slots": 14,
+   "total": 96.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T1_2d_6p",
+  "seed": 4,
+  "extra": null,
+  "cost": 102.0,
+  "time": 0.001906286999940221,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 54.0,
+   "deviation_minutes_avg": 60.0,
+   "overtime_slots": 1,
+   "idle_slots": 14,
+   "total": 102.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T1_2d_6p",
+  "seed": 4,
+  "extra": 0.95,
+  "cost": 96.0,
+  "time": 0.5514079600000059,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 48.0,
+   "deviation_minutes_avg": 45.0,
+   "overtime_slots": 1,
+   "idle_slots": 14,
+   "total": 96.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T1_2d_6p",
+  "seed": 5,
+  "extra": null,
+  "cost": 102.0,
+  "time": 0.001775047999956314,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 58.0,
+   "deviation_minutes_avg": 70.0,
+   "overtime_slots": 1,
+   "idle_slots": 12,
+   "total": 102.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T1_2d_6p",
+  "seed": 5,
+  "extra": 0.95,
+  "cost": 96.0,
+  "time": 0.6676190520000205,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 48.0,
+   "deviation_minutes_avg": 45.0,
+   "overtime_slots": 1,
+   "idle_slots": 14,
+   "total": 96.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T1_2d_6p",
+  "seed": 6,
+  "extra": null,
+  "cost": 102.0,
+  "time": 0.0030744259999551105,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 58.0,
+   "deviation_minutes_avg": 70.0,
+   "overtime_slots": 1,
+   "idle_slots": 12,
+   "total": 102.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T1_2d_6p",
+  "seed": 6,
+  "extra": 0.95,
+  "cost": 96.0,
+  "time": 0.5761022699999785,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 48.0,
+   "deviation_minutes_avg": 45.0,
+   "overtime_slots": 1,
+   "idle_slots": 14,
+   "total": 96.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T1_2d_6p",
+  "seed": 7,
+  "extra": null,
+  "cost": 102.0,
+  "time": 0.0017815810000456622,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 54.0,
+   "deviation_minutes_avg": 60.0,
+   "overtime_slots": 1,
+   "idle_slots": 14,
+   "total": 102.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T1_2d_6p",
+  "seed": 7,
+  "extra": 0.95,
+  "cost": 96.0,
+  "time": 0.5371723420000194,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 48.0,
+   "deviation_minutes_avg": 45.0,
+   "overtime_slots": 1,
+   "idle_slots": 14,
+   "total": 96.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T1_2d_6p",
+  "seed": 8,
+  "extra": null,
+  "cost": 102.0,
+  "time": 0.002025575999994089,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 58.0,
+   "deviation_minutes_avg": 70.0,
+   "overtime_slots": 1,
+   "idle_slots": 12,
+   "total": 102.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T1_2d_6p",
+  "seed": 8,
+  "extra": 0.95,
+  "cost": 96.0,
+  "time": 0.6073890740000252,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 48.0,
+   "deviation_minutes_avg": 45.0,
+   "overtime_slots": 1,
+   "idle_slots": 14,
+   "total": 96.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T1_2d_6p",
+  "seed": 9,
+  "extra": null,
+  "cost": 102.0,
+  "time": 0.0030842489999827194,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 58.0,
+   "deviation_minutes_avg": 70.0,
+   "overtime_slots": 1,
+   "idle_slots": 12,
+   "total": 102.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T1_2d_6p",
+  "seed": 9,
+  "extra": 0.95,
+  "cost": 96.0,
+  "time": 0.5047157980000065,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 48.0,
+   "deviation_minutes_avg": 45.0,
+   "overtime_slots": 1,
+   "idle_slots": 14,
+   "total": 96.0
+  }
+ },
+ {
+  "label": "greedy",
+  "instance": "T2_2d_8p",
+  "seed": 0,
+  "extra": null,
+  "cost": 104.0,
+  "time": 0.0005031780000308572,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 94.0,
+   "deviation_minutes_avg": 118.125,
+   "overtime_slots": 0,
+   "idle_slots": 5,
+   "total": 104.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T2_2d_8p",
+  "seed": 0,
+  "extra": null,
+  "cost": 99.0,
+  "time": 0.0037648869999884482,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 89.0,
+   "deviation_minutes_avg": 108.75,
+   "overtime_slots": 0,
+   "idle_slots": 5,
+   "total": 99.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T2_2d_8p",
+  "seed": 0,
+  "extra": 0.95,
+  "cost": 96.0,
+  "time": 0.8091704270000264,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 82.0,
+   "deviation_minutes_avg": 88.125,
+   "overtime_slots": 0,
+   "idle_slots": 7,
+   "total": 96.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T2_2d_8p",
+  "seed": 1,
+  "extra": null,
+  "cost": 96.0,
+  "time": 0.010063422000030187,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 86.0,
+   "deviation_minutes_avg": 103.125,
+   "overtime_slots": 0,
+   "idle_slots": 5,
+   "total": 96.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T2_2d_8p",
+  "seed": 1,
+  "extra": 0.95,
+  "cost": 94.0,
+  "time": 0.7829886979999401,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 80.0,
+   "deviation_minutes_avg": 91.875,
+   "overtime_slots": 0,
+   "idle_slots": 7,
+   "total": 94.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T2_2d_8p",
+  "seed": 2,
+  "extra": null,
+  "cost": 100.0,
+  "time": 0.0035556139999926017,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 90.0,
+   "deviation_minutes_avg": 110.625,
+   "overtime_slots": 0,
+   "idle_slots": 5,
+   "total": 100.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T2_2d_8p",
+  "seed": 2,
+  "extra": 0.95,
+  "cost": 94.0,
+  "time": 0.8423070819999907,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 80.0,
+   "deviation_minutes_avg": 91.875,
+   "overtime_slots": 0,
+   "idle_slots": 7,
+   "total": 94.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T2_2d_8p",
+  "seed": 3,
+  "extra": null,
+  "cost": 99.0,
+  "time": 0.00657607199997301,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 89.0,
+   "deviation_minutes_avg": 108.75,
+   "overtime_slots": 0,
+   "idle_slots": 5,
+   "total": 99.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T2_2d_8p",
+  "seed": 3,
+  "extra": 0.95,
+  "cost": 94.0,
+  "time": 0.8144681910000031,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 80.0,
+   "deviation_minutes_avg": 91.875,
+   "overtime_slots": 0,
+   "idle_slots": 7,
+   "total": 94.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T2_2d_8p",
+  "seed": 4,
+  "extra": null,
+  "cost": 96.0,
+  "time": 0.005763117000014972,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 86.0,
+   "deviation_minutes_avg": 103.125,
+   "overtime_slots": 0,
+   "idle_slots": 5,
+   "total": 96.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T2_2d_8p",
+  "seed": 4,
+  "extra": 0.95,
+  "cost": 94.0,
+  "time": 0.9256590339999207,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 82.0,
+   "deviation_minutes_avg": 95.625,
+   "overtime_slots": 0,
+   "idle_slots": 6,
+   "total": 94.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T2_2d_8p",
+  "seed": 5,
+  "extra": null,
+  "cost": 99.0,
+  "time": 0.0037534260000029462,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 89.0,
+   "deviation_minutes_avg": 108.75,
+   "overtime_slots": 0,
+   "idle_slots": 5,
+   "total": 99.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T2_2d_8p",
+  "seed": 5,
+  "extra": 0.95,
+  "cost": 94.0,
+  "time": 0.8655147500000453,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 82.0,
+   "deviation_minutes_avg": 95.625,
+   "overtime_slots": 0,
+   "idle_slots": 6,
+   "total": 94.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T2_2d_8p",
+  "seed": 6,
+  "extra": null,
+  "cost": 96.0,
+  "time": 0.005571107999969627,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 86.0,
+   "deviation_minutes_avg": 103.125,
+   "overtime_slots": 0,
+   "idle_slots": 5,
+   "total": 96.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T2_2d_8p",
+  "seed": 6,
+  "extra": 0.95,
+  "cost": 94.0,
+  "time": 0.7984066280000093,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 82.0,
+   "deviation_minutes_avg": 95.625,
+   "overtime_slots": 0,
+   "idle_slots": 6,
+   "total": 94.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T2_2d_8p",
+  "seed": 7,
+  "extra": null,
+  "cost": 99.0,
+  "time": 0.004307294000000184,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 89.0,
+   "deviation_minutes_avg": 108.75,
+   "overtime_slots": 0,
+   "idle_slots": 5,
+   "total": 99.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T2_2d_8p",
+  "seed": 7,
+  "extra": 0.95,
+  "cost": 94.0,
+  "time": 0.7975666230000229,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 80.0,
+   "deviation_minutes_avg": 91.875,
+   "overtime_slots": 0,
+   "idle_slots": 7,
+   "total": 94.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T2_2d_8p",
+  "seed": 8,
+  "extra": null,
+  "cost": 100.0,
+  "time": 0.002970695999920281,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 90.0,
+   "deviation_minutes_avg": 110.625,
+   "overtime_slots": 0,
+   "idle_slots": 5,
+   "total": 100.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T2_2d_8p",
+  "seed": 8,
+  "extra": 0.95,
+  "cost": 94.0,
+  "time": 0.7305411839999465,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 82.0,
+   "deviation_minutes_avg": 95.625,
+   "overtime_slots": 0,
+   "idle_slots": 6,
+   "total": 94.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T2_2d_8p",
+  "seed": 9,
+  "extra": null,
+  "cost": 99.0,
+  "time": 0.006775180999966324,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 89.0,
+   "deviation_minutes_avg": 108.75,
+   "overtime_slots": 0,
+   "idle_slots": 5,
+   "total": 99.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T2_2d_8p",
+  "seed": 9,
+  "extra": 0.95,
+  "cost": 96.0,
+  "time": 0.7962470800000006,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 86.0,
+   "deviation_minutes_avg": 95.625,
+   "overtime_slots": 0,
+   "idle_slots": 5,
+   "total": 96.0
+  }
+ },
+ {
+  "label": "greedy",
+  "instance": "T3_3d_10p",
+  "seed": 0,
+  "extra": null,
+  "cost": 62.0,
+  "time": 0.0011763530000052924,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 62.0,
+   "deviation_minutes_avg": 90.0,
+   "overtime_slots": 0,
+   "idle_slots": 0,
+   "total": 62.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T3_3d_10p",
+  "seed": 0,
+  "extra": null,
+  "cost": 54.0,
+  "time": 0.006720196000003398,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 46.0,
+   "deviation_minutes_avg": 66.0,
+   "overtime_slots": 0,
+   "idle_slots": 4,
+   "total": 54.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T3_3d_10p",
+  "seed": 0,
+  "extra": 0.95,
+  "cost": 53.5,
+  "time": 0.9846218429998999,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 49.5,
+   "deviation_minutes_avg": 70.5,
+   "overtime_slots": 0,
+   "idle_slots": 2,
+   "total": 53.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T3_3d_10p",
+  "seed": 1,
+  "extra": null,
+  "cost": 53.0,
+  "time": 0.013515077000022302,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 53.0,
+   "deviation_minutes_avg": 76.5,
+   "overtime_slots": 0,
+   "idle_slots": 0,
+   "total": 53.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T3_3d_10p",
+  "seed": 1,
+  "extra": 0.95,
+  "cost": 54.5,
+  "time": 1.0670105170000284,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 50.5,
+   "deviation_minutes_avg": 69.0,
+   "overtime_slots": 0,
+   "idle_slots": 2,
+   "total": 54.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T3_3d_10p",
+  "seed": 2,
+  "extra": null,
+  "cost": 53.0,
+  "time": 0.009739257999967776,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 47.0,
+   "deviation_minutes_avg": 67.5,
+   "overtime_slots": 0,
+   "idle_slots": 3,
+   "total": 53.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T3_3d_10p",
+  "seed": 2,
+  "extra": 0.95,
+  "cost": 53.0,
+  "time": 1.2048851100000206,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 53.0,
+   "deviation_minutes_avg": 76.5,
+   "overtime_slots": 0,
+   "idle_slots": 0,
+   "total": 53.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T3_3d_10p",
+  "seed": 3,
+  "extra": null,
+  "cost": 53.0,
+  "time": 0.011332604000017454,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 53.0,
+   "deviation_minutes_avg": 76.5,
+   "overtime_slots": 0,
+   "idle_slots": 0,
+   "total": 53.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T3_3d_10p",
+  "seed": 3,
+  "extra": 0.95,
+  "cost": 53.0,
+  "time": 1.2198694159999945,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 35.0,
+   "deviation_minutes_avg": 49.5,
+   "overtime_slots": 0,
+   "idle_slots": 9,
+   "total": 53.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T3_3d_10p",
+  "seed": 4,
+  "extra": null,
+  "cost": 62.0,
+  "time": 0.006187860000011369,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 62.0,
+   "deviation_minutes_avg": 90.0,
+   "overtime_slots": 0,
+   "idle_slots": 0,
+   "total": 62.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T3_3d_10p",
+  "seed": 4,
+  "extra": 0.95,
+  "cost": 53.0,
+  "time": 1.3225813190000508,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 37.0,
+   "deviation_minutes_avg": 52.5,
+   "overtime_slots": 0,
+   "idle_slots": 8,
+   "total": 53.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T3_3d_10p",
+  "seed": 5,
+  "extra": null,
+  "cost": 61.0,
+  "time": 0.007878266999966854,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 55.0,
+   "deviation_minutes_avg": 79.5,
+   "overtime_slots": 0,
+   "idle_slots": 3,
+   "total": 61.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T3_3d_10p",
+  "seed": 5,
+  "extra": 0.95,
+  "cost": 53.5,
+  "time": 1.2871843940000076,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 43.5,
+   "deviation_minutes_avg": 61.5,
+   "overtime_slots": 0,
+   "idle_slots": 5,
+   "total": 53.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T3_3d_10p",
+  "seed": 6,
+  "extra": null,
+  "cost": 62.0,
+  "time": 0.003478769999958331,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 62.0,
+   "deviation_minutes_avg": 90.0,
+   "overtime_slots": 0,
+   "idle_slots": 0,
+   "total": 62.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T3_3d_10p",
+  "seed": 6,
+  "extra": 0.95,
+  "cost": 54.0,
+  "time": 1.0411228559999586,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 38.0,
+   "deviation_minutes_avg": 52.5,
+   "overtime_slots": 0,
+   "idle_slots": 8,
+   "total": 54.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T3_3d_10p",
+  "seed": 7,
+  "extra": null,
+  "cost": 54.0,
+  "time": 0.012026559999981146,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 46.0,
+   "deviation_minutes_avg": 66.0,
+   "overtime_slots": 0,
+   "idle_slots": 4,
+   "total": 54.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T3_3d_10p",
+  "seed": 7,
+  "extra": 0.95,
+  "cost": 54.5,
+  "time": 1.3022820699999897,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 46.5,
+   "deviation_minutes_avg": 63.0,
+   "overtime_slots": 0,
+   "idle_slots": 4,
+   "total": 54.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T3_3d_10p",
+  "seed": 8,
+  "extra": null,
+  "cost": 54.0,
+  "time": 0.01808900899999344,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 44.0,
+   "deviation_minutes_avg": 63.0,
+   "overtime_slots": 0,
+   "idle_slots": 5,
+   "total": 54.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T3_3d_10p",
+  "seed": 8,
+  "extra": 0.95,
+  "cost": 53.5,
+  "time": 1.1955891560000396,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 41.5,
+   "deviation_minutes_avg": 58.5,
+   "overtime_slots": 0,
+   "idle_slots": 6,
+   "total": 53.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "T3_3d_10p",
+  "seed": 9,
+  "extra": null,
+  "cost": 54.0,
+  "time": 0.013294471999984125,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 42.0,
+   "deviation_minutes_avg": 60.0,
+   "overtime_slots": 0,
+   "idle_slots": 6,
+   "total": 54.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "T3_3d_10p",
+  "seed": 9,
+  "extra": 0.95,
+  "cost": 53.0,
+  "time": 0.9680365890000076,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 47.0,
+   "deviation_minutes_avg": 67.5,
+   "overtime_slots": 0,
+   "idle_slots": 3,
+   "total": 53.0
+  }
+ },
+ {
+  "label": "greedy",
+  "instance": "S1_5d_30p",
+  "seed": 0,
+  "extra": null,
+  "cost": 176.0,
+  "time": 0.0026497030000314226,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 172.0,
+   "deviation_minutes_avg": 65.0,
+   "overtime_slots": 0,
+   "idle_slots": 2,
+   "total": 176.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "S1_5d_30p",
+  "seed": 0,
+  "extra": null,
+  "cost": 128.5,
+  "time": 0.07107003800001621,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 106.5,
+   "deviation_minutes_avg": 42.5,
+   "overtime_slots": 0,
+   "idle_slots": 11,
+   "total": 128.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "S1_5d_30p",
+  "seed": 0,
+  "extra": 0.95,
+  "cost": 105.0,
+  "time": 4.238186929999927,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 81.0,
+   "deviation_minutes_avg": 32.5,
+   "overtime_slots": 0,
+   "idle_slots": 12,
+   "total": 105.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "S1_5d_30p",
+  "seed": 1,
+  "extra": null,
+  "cost": 130.5,
+  "time": 0.046292739999955757,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 100.5,
+   "deviation_minutes_avg": 39.5,
+   "overtime_slots": 0,
+   "idle_slots": 15,
+   "total": 130.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "S1_5d_30p",
+  "seed": 1,
+  "extra": 0.95,
+  "cost": 95.5,
+  "time": 4.352099687999953,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 83.5,
+   "deviation_minutes_avg": 32.5,
+   "overtime_slots": 0,
+   "idle_slots": 6,
+   "total": 95.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "S1_5d_30p",
+  "seed": 2,
+  "extra": null,
+  "cost": 131.5,
+  "time": 0.052288978999968094,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 105.5,
+   "deviation_minutes_avg": 44.0,
+   "overtime_slots": 0,
+   "idle_slots": 13,
+   "total": 131.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "S1_5d_30p",
+  "seed": 2,
+  "extra": 0.95,
+  "cost": 95.0,
+  "time": 4.213521039000057,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 85.0,
+   "deviation_minutes_avg": 34.5,
+   "overtime_slots": 0,
+   "idle_slots": 5,
+   "total": 95.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "S1_5d_30p",
+  "seed": 3,
+  "extra": null,
+  "cost": 171.5,
+  "time": 0.017507989000023372,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 167.5,
+   "deviation_minutes_avg": 64.0,
+   "overtime_slots": 0,
+   "idle_slots": 2,
+   "total": 171.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "S1_5d_30p",
+  "seed": 3,
+  "extra": 0.95,
+  "cost": 95.0,
+  "time": 4.372834347000037,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 85.0,
+   "deviation_minutes_avg": 31.5,
+   "overtime_slots": 0,
+   "idle_slots": 5,
+   "total": 95.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "S1_5d_30p",
+  "seed": 4,
+  "extra": null,
+  "cost": 176.0,
+  "time": 0.01209636200002251,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 168.0,
+   "deviation_minutes_avg": 63.0,
+   "overtime_slots": 0,
+   "idle_slots": 4,
+   "total": 176.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "S1_5d_30p",
+  "seed": 4,
+  "extra": 0.95,
+  "cost": 105.5,
+  "time": 4.730406060000064,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 79.5,
+   "deviation_minutes_avg": 30.5,
+   "overtime_slots": 0,
+   "idle_slots": 13,
+   "total": 105.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "S1_5d_30p",
+  "seed": 5,
+  "extra": null,
+  "cost": 128.5,
+  "time": 0.06583273400002554,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 106.5,
+   "deviation_minutes_avg": 44.5,
+   "overtime_slots": 0,
+   "idle_slots": 11,
+   "total": 128.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "S1_5d_30p",
+  "seed": 5,
+  "extra": 0.95,
+  "cost": 95.5,
+  "time": 4.11383690699995,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 83.5,
+   "deviation_minutes_avg": 30.0,
+   "overtime_slots": 0,
+   "idle_slots": 6,
+   "total": 95.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "S1_5d_30p",
+  "seed": 6,
+  "extra": null,
+  "cost": 130.5,
+  "time": 0.03985995699997602,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 106.5,
+   "deviation_minutes_avg": 43.5,
+   "overtime_slots": 0,
+   "idle_slots": 12,
+   "total": 130.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "S1_5d_30p",
+  "seed": 6,
+  "extra": 0.95,
+  "cost": 94.0,
+  "time": 4.844082651999997,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 86.0,
+   "deviation_minutes_avg": 35.0,
+   "overtime_slots": 0,
+   "idle_slots": 4,
+   "total": 94.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "S1_5d_30p",
+  "seed": 7,
+  "extra": null,
+  "cost": 135.5,
+  "time": 0.03959196699997847,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 109.5,
+   "deviation_minutes_avg": 43.0,
+   "overtime_slots": 0,
+   "idle_slots": 13,
+   "total": 135.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "S1_5d_30p",
+  "seed": 7,
+  "extra": 0.95,
+  "cost": 97.5,
+  "time": 4.818660215000023,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 93.5,
+   "deviation_minutes_avg": 35.5,
+   "overtime_slots": 0,
+   "idle_slots": 2,
+   "total": 97.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "S1_5d_30p",
+  "seed": 8,
+  "extra": null,
+  "cost": 171.5,
+  "time": 0.02402095500002588,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 167.5,
+   "deviation_minutes_avg": 62.0,
+   "overtime_slots": 0,
+   "idle_slots": 2,
+   "total": 171.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "S1_5d_30p",
+  "seed": 8,
+  "extra": 0.95,
+  "cost": 104.5,
+  "time": 4.513793258000021,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 80.5,
+   "deviation_minutes_avg": 30.0,
+   "overtime_slots": 0,
+   "idle_slots": 12,
+   "total": 104.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "S1_5d_30p",
+  "seed": 9,
+  "extra": null,
+  "cost": 136.5,
+  "time": 0.045854762000033134,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 106.5,
+   "deviation_minutes_avg": 42.5,
+   "overtime_slots": 0,
+   "idle_slots": 15,
+   "total": 136.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "S1_5d_30p",
+  "seed": 9,
+  "extra": 0.95,
+  "cost": 105.5,
+  "time": 4.930891036999981,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 77.5,
+   "deviation_minutes_avg": 28.5,
+   "overtime_slots": 0,
+   "idle_slots": 14,
+   "total": 105.5
+  }
+ },
+ {
+  "label": "sa_long",
+  "instance": "S1_5d_30p",
+  "seed": 999,
+  "extra": 0.99,
+  "cost": 94.0,
+  "time": 22.544978647999983,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 80.0,
+   "deviation_minutes_avg": 32.0,
+   "overtime_slots": 0,
+   "idle_slots": 7,
+   "total": 94.0
+  }
+ },
+ {
+  "label": "greedy",
+  "instance": "M1_8d_70p",
+  "seed": 0,
+  "extra": null,
+  "cost": 675.0,
+  "time": 0.006236065000052804,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 483.0,
+   "deviation_minutes_avg": 61.07142857142857,
+   "overtime_slots": 6,
+   "idle_slots": 36,
+   "total": 675.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M1_8d_70p",
+  "seed": 0,
+  "extra": null,
+  "cost": 594.0,
+  "time": 0.18100146899996616,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 386.0,
+   "deviation_minutes_avg": 49.07142857142857,
+   "overtime_slots": 7,
+   "idle_slots": 34,
+   "total": 594.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M1_8d_70p",
+  "seed": 0,
+  "extra": 0.95,
+  "cost": 458.5,
+  "time": 12.548272165999947,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 268.5,
+   "deviation_minutes_avg": 35.142857142857146,
+   "overtime_slots": 6,
+   "idle_slots": 35,
+   "total": 458.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M1_8d_70p",
+  "seed": 1,
+  "extra": null,
+  "cost": 597.5,
+  "time": 0.1180096300000173,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 405.5,
+   "deviation_minutes_avg": 50.357142857142854,
+   "overtime_slots": 6,
+   "idle_slots": 36,
+   "total": 597.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M1_8d_70p",
+  "seed": 1,
+  "extra": 0.95,
+  "cost": 489.5,
+  "time": 12.942281849999972,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 297.5,
+   "deviation_minutes_avg": 39.642857142857146,
+   "overtime_slots": 6,
+   "idle_slots": 36,
+   "total": 489.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M1_8d_70p",
+  "seed": 2,
+  "extra": null,
+  "cost": 551.5,
+  "time": 0.1708853039999667,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 383.5,
+   "deviation_minutes_avg": 46.714285714285715,
+   "overtime_slots": 6,
+   "idle_slots": 24,
+   "total": 551.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M1_8d_70p",
+  "seed": 2,
+  "extra": 0.95,
+  "cost": 493.5,
+  "time": 11.67832287899995,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 285.5,
+   "deviation_minutes_avg": 36.42857142857143,
+   "overtime_slots": 6,
+   "idle_slots": 44,
+   "total": 493.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M1_8d_70p",
+  "seed": 3,
+  "extra": null,
+  "cost": 596.5,
+  "time": 0.11990465600001698,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 404.5,
+   "deviation_minutes_avg": 49.714285714285715,
+   "overtime_slots": 6,
+   "idle_slots": 36,
+   "total": 596.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M1_8d_70p",
+  "seed": 3,
+  "extra": 0.95,
+  "cost": 477.0,
+  "time": 13.011346105999962,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 283.0,
+   "deviation_minutes_avg": 37.07142857142857,
+   "overtime_slots": 7,
+   "idle_slots": 27,
+   "total": 477.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M1_8d_70p",
+  "seed": 4,
+  "extra": null,
+  "cost": 629.0,
+  "time": 0.13075912499994047,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 439.0,
+   "deviation_minutes_avg": 57.642857142857146,
+   "overtime_slots": 6,
+   "idle_slots": 35,
+   "total": 629.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M1_8d_70p",
+  "seed": 4,
+  "extra": 0.95,
+  "cost": 497.5,
+  "time": 13.321075935999943,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 281.5,
+   "deviation_minutes_avg": 38.357142857142854,
+   "overtime_slots": 7,
+   "idle_slots": 38,
+   "total": 497.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M1_8d_70p",
+  "seed": 5,
+  "extra": null,
+  "cost": 582.5,
+  "time": 0.13342136000005667,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 388.5,
+   "deviation_minutes_avg": 47.142857142857146,
+   "overtime_slots": 6,
+   "idle_slots": 37,
+   "total": 582.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M1_8d_70p",
+  "seed": 5,
+  "extra": 0.95,
+  "cost": 484.5,
+  "time": 12.484005534999937,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 314.5,
+   "deviation_minutes_avg": 42.0,
+   "overtime_slots": 5,
+   "idle_slots": 35,
+   "total": 484.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M1_8d_70p",
+  "seed": 6,
+  "extra": null,
+  "cost": 533.0,
+  "time": 0.21424663899983898,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 355.0,
+   "deviation_minutes_avg": 41.357142857142854,
+   "overtime_slots": 6,
+   "idle_slots": 29,
+   "total": 533.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M1_8d_70p",
+  "seed": 6,
+  "extra": 0.95,
+  "cost": 485.0,
+  "time": 12.809085418999985,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 285.0,
+   "deviation_minutes_avg": 38.57142857142857,
+   "overtime_slots": 7,
+   "idle_slots": 30,
+   "total": 485.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M1_8d_70p",
+  "seed": 7,
+  "extra": null,
+  "cost": 572.5,
+  "time": 0.16500296899982914,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 386.5,
+   "deviation_minutes_avg": 47.357142857142854,
+   "overtime_slots": 6,
+   "idle_slots": 33,
+   "total": 572.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M1_8d_70p",
+  "seed": 7,
+  "extra": 0.95,
+  "cost": 487.5,
+  "time": 12.671367600000053,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 303.5,
+   "deviation_minutes_avg": 41.142857142857146,
+   "overtime_slots": 5,
+   "idle_slots": 42,
+   "total": 487.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M1_8d_70p",
+  "seed": 8,
+  "extra": null,
+  "cost": 573.5,
+  "time": 0.08034579700006361,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 387.5,
+   "deviation_minutes_avg": 46.5,
+   "overtime_slots": 6,
+   "idle_slots": 33,
+   "total": 573.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M1_8d_70p",
+  "seed": 8,
+  "extra": 0.95,
+  "cost": 444.5,
+  "time": 13.091285939000045,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 272.5,
+   "deviation_minutes_avg": 37.07142857142857,
+   "overtime_slots": 5,
+   "idle_slots": 36,
+   "total": 444.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M1_8d_70p",
+  "seed": 9,
+  "extra": null,
+  "cost": 594.0,
+  "time": 0.10262763000002906,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 402.0,
+   "deviation_minutes_avg": 50.142857142857146,
+   "overtime_slots": 6,
+   "idle_slots": 36,
+   "total": 594.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M1_8d_70p",
+  "seed": 9,
+  "extra": 0.95,
+  "cost": 476.5,
+  "time": 12.001862754000058,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 326.5,
+   "deviation_minutes_avg": 39.42857142857143,
+   "overtime_slots": 5,
+   "idle_slots": 25,
+   "total": 476.5
+  }
+ },
+ {
+  "label": "sa_long",
+  "instance": "M1_8d_70p",
+  "seed": 999,
+  "extra": 0.99,
+  "cost": 455.0,
+  "time": 62.068359655999984,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 261.0,
+   "deviation_minutes_avg": 34.285714285714285,
+   "overtime_slots": 6,
+   "idle_slots": 37,
+   "total": 455.0
+  }
+ },
+ {
+  "label": "greedy",
+  "instance": "M2_8d_110p",
+  "seed": 0,
+  "extra": null,
+  "cost": 2186.0,
+  "time": 0.011676746000034655,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 1108.0,
+   "deviation_minutes_avg": 97.77272727272727,
+   "overtime_slots": 53,
+   "idle_slots": 9,
+   "total": 2186.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M2_8d_110p",
+  "seed": 0,
+  "extra": null,
+  "cost": 1736.0,
+  "time": 0.5343598359999078,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 616.0,
+   "deviation_minutes_avg": 59.72727272727273,
+   "overtime_slots": 54,
+   "idle_slots": 20,
+   "total": 1736.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M2_8d_110p",
+  "seed": 0,
+  "extra": 0.95,
+  "cost": 1466.5,
+  "time": 23.43681070199989,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 480.5,
+   "deviation_minutes_avg": 47.31818181818182,
+   "overtime_slots": 48,
+   "idle_slots": 13,
+   "total": 1466.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M2_8d_110p",
+  "seed": 1,
+  "extra": null,
+  "cost": 1710.5,
+  "time": 0.4311119099999132,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 610.5,
+   "deviation_minutes_avg": 58.09090909090909,
+   "overtime_slots": 53,
+   "idle_slots": 20,
+   "total": 1710.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M2_8d_110p",
+  "seed": 1,
+  "extra": 0.95,
+  "cost": 1432.5,
+  "time": 22.113300654000113,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 416.5,
+   "deviation_minutes_avg": 42.81818181818182,
+   "overtime_slots": 49,
+   "idle_slots": 18,
+   "total": 1432.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M2_8d_110p",
+  "seed": 2,
+  "extra": null,
+  "cost": 1642.0,
+  "time": 0.6924183249999487,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 596.0,
+   "deviation_minutes_avg": 59.04545454545455,
+   "overtime_slots": 50,
+   "idle_slots": 23,
+   "total": 1642.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M2_8d_110p",
+  "seed": 2,
+  "extra": 0.95,
+  "cost": 1508.0,
+  "time": 23.846828394,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 478.0,
+   "deviation_minutes_avg": 45.0,
+   "overtime_slots": 50,
+   "idle_slots": 15,
+   "total": 1508.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M2_8d_110p",
+  "seed": 3,
+  "extra": null,
+  "cost": 1785.5,
+  "time": 0.3061772060000294,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 689.5,
+   "deviation_minutes_avg": 64.77272727272727,
+   "overtime_slots": 53,
+   "idle_slots": 18,
+   "total": 1785.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M2_8d_110p",
+  "seed": 3,
+  "extra": 0.95,
+  "cost": 1442.0,
+  "time": 23.91092763100005,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 430.0,
+   "deviation_minutes_avg": 40.36363636363637,
+   "overtime_slots": 49,
+   "idle_slots": 16,
+   "total": 1442.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M2_8d_110p",
+  "seed": 4,
+  "extra": null,
+  "cost": 1758.5,
+  "time": 0.34895411100001184,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 662.5,
+   "deviation_minutes_avg": 65.04545454545455,
+   "overtime_slots": 53,
+   "idle_slots": 18,
+   "total": 1758.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M2_8d_110p",
+  "seed": 4,
+  "extra": 0.95,
+  "cost": 1494.0,
+  "time": 26.238698023999973,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 500.0,
+   "deviation_minutes_avg": 45.68181818181818,
+   "overtime_slots": 48,
+   "idle_slots": 17,
+   "total": 1494.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M2_8d_110p",
+  "seed": 5,
+  "extra": null,
+  "cost": 1699.5,
+  "time": 0.3834159540000428,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 611.5,
+   "deviation_minutes_avg": 56.31818181818182,
+   "overtime_slots": 52,
+   "idle_slots": 24,
+   "total": 1699.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M2_8d_110p",
+  "seed": 5,
+  "extra": 0.95,
+  "cost": 1440.0,
+  "time": 24.961405546000037,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 388.0,
+   "deviation_minutes_avg": 36.0,
+   "overtime_slots": 51,
+   "idle_slots": 16,
+   "total": 1440.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M2_8d_110p",
+  "seed": 6,
+  "extra": null,
+  "cost": 1799.0,
+  "time": 0.36859520600000906,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 687.0,
+   "deviation_minutes_avg": 63.81818181818182,
+   "overtime_slots": 54,
+   "idle_slots": 16,
+   "total": 1799.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M2_8d_110p",
+  "seed": 6,
+  "extra": 0.95,
+  "cost": 1432.5,
+  "time": 23.797595853000075,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 444.5,
+   "deviation_minutes_avg": 42.68181818181818,
+   "overtime_slots": 48,
+   "idle_slots": 14,
+   "total": 1432.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M2_8d_110p",
+  "seed": 7,
+  "extra": null,
+  "cost": 1797.5,
+  "time": 0.4502842829999736,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 679.5,
+   "deviation_minutes_avg": 65.45454545454545,
+   "overtime_slots": 54,
+   "idle_slots": 19,
+   "total": 1797.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M2_8d_110p",
+  "seed": 7,
+  "extra": 0.95,
+  "cost": 1494.5,
+  "time": 25.08897751699999,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 520.5,
+   "deviation_minutes_avg": 49.36363636363637,
+   "overtime_slots": 47,
+   "idle_slots": 17,
+   "total": 1494.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M2_8d_110p",
+  "seed": 8,
+  "extra": null,
+  "cost": 1641.5,
+  "time": 0.729136806999918,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 553.5,
+   "deviation_minutes_avg": 55.09090909090909,
+   "overtime_slots": 52,
+   "idle_slots": 24,
+   "total": 1641.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M2_8d_110p",
+  "seed": 8,
+  "extra": 0.95,
+  "cost": 1420.0,
+  "time": 25.55758627199998,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 430.0,
+   "deviation_minutes_avg": 40.90909090909091,
+   "overtime_slots": 48,
+   "idle_slots": 15,
+   "total": 1420.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "M2_8d_110p",
+  "seed": 9,
+  "extra": null,
+  "cost": 1648.0,
+  "time": 0.6440407709999363,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 620.0,
+   "deviation_minutes_avg": 60.54545454545455,
+   "overtime_slots": 49,
+   "idle_slots": 24,
+   "total": 1648.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "M2_8d_110p",
+  "seed": 9,
+  "extra": 0.95,
+  "cost": 1524.5,
+  "time": 24.17681329000004,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 508.5,
+   "deviation_minutes_avg": 45.95454545454545,
+   "overtime_slots": 49,
+   "idle_slots": 18,
+   "total": 1524.5
+  }
+ },
+ {
+  "label": "sa_long",
+  "instance": "M2_8d_110p",
+  "seed": 999,
+  "extra": 0.99,
+  "cost": 1421.5,
+  "time": 126.97716882600002,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 471.5,
+   "deviation_minutes_avg": 44.45454545454545,
+   "overtime_slots": 46,
+   "idle_slots": 15,
+   "total": 1421.5
+  }
+ },
+ {
+  "label": "greedy",
+  "instance": "L1_15d_150p",
+  "seed": 0,
+  "extra": null,
+  "cost": 1266.5,
+  "time": 0.029936184000007415,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 778.5,
+   "deviation_minutes_avg": 47.0,
+   "overtime_slots": 23,
+   "idle_slots": 14,
+   "total": 1266.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "L1_15d_150p",
+  "seed": 0,
+  "extra": null,
+  "cost": 1090.5,
+  "time": 0.403104581999969,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 622.5,
+   "deviation_minutes_avg": 35.0,
+   "overtime_slots": 21,
+   "idle_slots": 24,
+   "total": 1090.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "L1_15d_150p",
+  "seed": 0,
+  "extra": 0.95,
+  "cost": 723.0,
+  "time": 36.14146503200004,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 375.0,
+   "deviation_minutes_avg": 19.1,
+   "overtime_slots": 15,
+   "idle_slots": 24,
+   "total": 723.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "L1_15d_150p",
+  "seed": 1,
+  "extra": null,
+  "cost": 1008.0,
+  "time": 0.7846304109999664,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 554.0,
+   "deviation_minutes_avg": 29.4,
+   "overtime_slots": 21,
+   "idle_slots": 17,
+   "total": 1008.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "L1_15d_150p",
+  "seed": 1,
+  "extra": 0.95,
+  "cost": 735.5,
+  "time": 38.437348290000045,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 389.5,
+   "deviation_minutes_avg": 21.2,
+   "overtime_slots": 15,
+   "idle_slots": 23,
+   "total": 735.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "L1_15d_150p",
+  "seed": 2,
+  "extra": null,
+  "cost": 1000.0,
+  "time": 0.7240497589999677,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 536.0,
+   "deviation_minutes_avg": 32.0,
+   "overtime_slots": 21,
+   "idle_slots": 22,
+   "total": 1000.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "L1_15d_150p",
+  "seed": 2,
+  "extra": 0.95,
+  "cost": 717.5,
+  "time": 34.13764290899985,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 405.5,
+   "deviation_minutes_avg": 23.4,
+   "overtime_slots": 13,
+   "idle_slots": 26,
+   "total": 717.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "L1_15d_150p",
+  "seed": 3,
+  "extra": null,
+  "cost": 1058.5,
+  "time": 0.32313325299992357,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 606.5,
+   "deviation_minutes_avg": 36.5,
+   "overtime_slots": 21,
+   "idle_slots": 16,
+   "total": 1058.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "L1_15d_150p",
+  "seed": 3,
+  "extra": 0.95,
+  "cost": 684.5,
+  "time": 36.09770163999997,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 374.5,
+   "deviation_minutes_avg": 19.9,
+   "overtime_slots": 13,
+   "idle_slots": 25,
+   "total": 684.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "L1_15d_150p",
+  "seed": 4,
+  "extra": null,
+  "cost": 1028.0,
+  "time": 0.45964005699988775,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 592.0,
+   "deviation_minutes_avg": 35.9,
+   "overtime_slots": 20,
+   "idle_slots": 18,
+   "total": 1028.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "L1_15d_150p",
+  "seed": 4,
+  "extra": 0.95,
+  "cost": 715.5,
+  "time": 35.942987066000114,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 399.5,
+   "deviation_minutes_avg": 21.3,
+   "overtime_slots": 13,
+   "idle_slots": 28,
+   "total": 715.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "L1_15d_150p",
+  "seed": 5,
+  "extra": null,
+  "cost": 980.5,
+  "time": 0.8597982380001667,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 514.5,
+   "deviation_minutes_avg": 30.1,
+   "overtime_slots": 21,
+   "idle_slots": 23,
+   "total": 980.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "L1_15d_150p",
+  "seed": 5,
+  "extra": 0.95,
+  "cost": 665.0,
+  "time": 38.84261376800009,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 365.0,
+   "deviation_minutes_avg": 22.6,
+   "overtime_slots": 13,
+   "idle_slots": 20,
+   "total": 665.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "L1_15d_150p",
+  "seed": 6,
+  "extra": null,
+  "cost": 977.5,
+  "time": 0.6731389710002986,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 553.5,
+   "deviation_minutes_avg": 33.6,
+   "overtime_slots": 19,
+   "idle_slots": 22,
+   "total": 977.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "L1_15d_150p",
+  "seed": 6,
+  "extra": 0.95,
+  "cost": 640.5,
+  "time": 37.592069944000286,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 364.5,
+   "deviation_minutes_avg": 22.5,
+   "overtime_slots": 12,
+   "idle_slots": 18,
+   "total": 640.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "L1_15d_150p",
+  "seed": 7,
+  "extra": null,
+  "cost": 1001.5,
+  "time": 0.8083221340000364,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 561.5,
+   "deviation_minutes_avg": 34.8,
+   "overtime_slots": 20,
+   "idle_slots": 20,
+   "total": 1001.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "L1_15d_150p",
+  "seed": 7,
+  "extra": 0.95,
+  "cost": 722.5,
+  "time": 39.53409615899977,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 396.5,
+   "deviation_minutes_avg": 22.8,
+   "overtime_slots": 14,
+   "idle_slots": 23,
+   "total": 722.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "L1_15d_150p",
+  "seed": 8,
+  "extra": null,
+  "cost": 1056.0,
+  "time": 0.5788704330000201,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 614.0,
+   "deviation_minutes_avg": 34.4,
+   "overtime_slots": 20,
+   "idle_slots": 21,
+   "total": 1056.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "L1_15d_150p",
+  "seed": 8,
+  "extra": 0.95,
+  "cost": 756.0,
+  "time": 37.10971600100015,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 324.0,
+   "deviation_minutes_avg": 18.3,
+   "overtime_slots": 19,
+   "idle_slots": 26,
+   "total": 756.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "L1_15d_150p",
+  "seed": 9,
+  "extra": null,
+  "cost": 1029.0,
+  "time": 0.4542510629999015,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 569.0,
+   "deviation_minutes_avg": 34.5,
+   "overtime_slots": 21,
+   "idle_slots": 20,
+   "total": 1029.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "L1_15d_150p",
+  "seed": 9,
+  "extra": 0.95,
+  "cost": 654.5,
+  "time": 35.31936553399987,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 372.5,
+   "deviation_minutes_avg": 21.3,
+   "overtime_slots": 12,
+   "idle_slots": 21,
+   "total": 654.5
+  }
+ },
+ {
+  "label": "sa_long",
+  "instance": "L1_15d_150p",
+  "seed": 999,
+  "extra": 0.99,
+  "cost": 686.5,
+  "time": 175.89980354499994,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 408.5,
+   "deviation_minutes_avg": 23.2,
+   "overtime_slots": 12,
+   "idle_slots": 19,
+   "total": 686.5
+  }
+ },
+ {
+  "label": "greedy",
+  "instance": "L2_25d_300p",
+  "seed": 0,
+  "extra": null,
+  "cost": 1624.0,
+  "time": 0.13474948600014613,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 1218.0,
+   "deviation_minutes_avg": 48.95,
+   "overtime_slots": 20,
+   "idle_slots": 3,
+   "total": 1624.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "L2_25d_300p",
+  "seed": 0,
+  "extra": null,
+  "cost": 1365.0,
+  "time": 2.1780567780001547,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 949.0,
+   "deviation_minutes_avg": 40.35,
+   "overtime_slots": 20,
+   "idle_slots": 8,
+   "total": 1365.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "L2_25d_300p",
+  "seed": 0,
+  "extra": 0.95,
+  "cost": 708.5,
+  "time": 71.85134613500009,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 594.5,
+   "deviation_minutes_avg": 23.25,
+   "overtime_slots": 2,
+   "idle_slots": 37,
+   "total": 708.5
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "L2_25d_300p",
+  "seed": 1,
+  "extra": null,
+  "cost": 1367.5,
+  "time": 2.416596221000191,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 949.5,
+   "deviation_minutes_avg": 40.0,
+   "overtime_slots": 20,
+   "idle_slots": 9,
+   "total": 1367.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "L2_25d_300p",
+  "seed": 1,
+  "extra": 0.95,
+  "cost": 628.0,
+  "time": 78.68224107299989,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 576.0,
+   "deviation_minutes_avg": 24.15,
+   "overtime_slots": 1,
+   "idle_slots": 16,
+   "total": 628.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "L2_25d_300p",
+  "seed": 2,
+  "extra": null,
+  "cost": 1347.0,
+  "time": 2.278400690999888,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 931.0,
+   "deviation_minutes_avg": 39.05,
+   "overtime_slots": 20,
+   "idle_slots": 8,
+   "total": 1347.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "L2_25d_300p",
+  "seed": 2,
+  "extra": 0.95,
+  "cost": 658.0,
+  "time": 82.50401583699977,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 606.0,
+   "deviation_minutes_avg": 24.4,
+   "overtime_slots": 0,
+   "idle_slots": 26,
+   "total": 658.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "L2_25d_300p",
+  "seed": 3,
+  "extra": null,
+  "cost": 1286.0,
+  "time": 2.8437537859999793,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 910.0,
+   "deviation_minutes_avg": 39.0,
+   "overtime_slots": 18,
+   "idle_slots": 8,
+   "total": 1286.0
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "L2_25d_300p",
+  "seed": 3,
+  "extra": 0.95,
+  "cost": 631.0,
+  "time": 84.67257851,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 597.0,
+   "deviation_minutes_avg": 23.0,
+   "overtime_slots": 0,
+   "idle_slots": 17,
+   "total": 631.0
+  }
+ },
+ {
+  "label": "hc",
+  "instance": "L2_25d_300p",
+  "seed": 4,
+  "extra": null,
+  "cost": 1301.5,
+  "time": 3.1458537880000677,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 885.5,
+   "deviation_minutes_avg": 36.8,
+   "overtime_slots": 20,
+   "idle_slots": 8,
+   "total": 1301.5
+  }
+ },
+ {
+  "label": "sa",
+  "instance": "L2_25d_300p",
+  "seed": 4,
+  "extra": 0.95,
+  "cost": 631.0,
+  "time": 75.00749536800004,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 591.0,
+   "deviation_minutes_avg": 23.8,
+   "overtime_slots": 0,
+   "idle_slots": 20,
+   "total": 631.0
+  }
+ },
+ {
+  "label": "sa_long",
+  "instance": "L2_25d_300p",
+  "seed": 999,
+  "extra": 0.99,
+  "cost": 579.0,
+  "time": 359.825809488,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 561.0,
+   "deviation_minutes_avg": 22.7,
+   "overtime_slots": 0,
+   "idle_slots": 9,
+   "total": 579.0
+  }
+ },
+ {
+  "label": "alpha",
+  "instance": "M1_8d_70p",
+  "seed": 0,
+  "extra": 0.8,
+  "cost": 532.0,
+  "time": 3.270874733000028,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 300.0,
+   "deviation_minutes_avg": 36.642857142857146,
+   "overtime_slots": 8,
+   "idle_slots": 36,
+   "total": 532.0
+  }
+ },
+ {
+  "label": "alpha",
+  "instance": "M1_8d_70p",
+  "seed": 1,
+  "extra": 0.8,
+  "cost": 512.5,
+  "time": 3.3232735689998663,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 318.5,
+   "deviation_minutes_avg": 38.357142857142854,
+   "overtime_slots": 6,
+   "idle_slots": 37,
+   "total": 512.5
+  }
+ },
+ {
+  "label": "alpha",
+  "instance": "M1_8d_70p",
+  "seed": 2,
+  "extra": 0.8,
+  "cost": 531.0,
+  "time": 3.4337716500001534,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 303.0,
+   "deviation_minutes_avg": 40.714285714285715,
+   "overtime_slots": 7,
+   "idle_slots": 44,
+   "total": 531.0
+  }
+ },
+ {
+  "label": "alpha",
+  "instance": "M1_8d_70p",
+  "seed": 0,
+  "extra": 0.9,
+  "cost": 496.0,
+  "time": 6.777203095999994,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 312.0,
+   "deviation_minutes_avg": 43.07142857142857,
+   "overtime_slots": 5,
+   "idle_slots": 42,
+   "total": 496.0
+  }
+ },
+ {
+  "label": "alpha",
+  "instance": "M1_8d_70p",
+  "seed": 1,
+  "extra": 0.9,
+  "cost": 484.5,
+  "time": 6.298522087000038,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 272.5,
+   "deviation_minutes_avg": 34.5,
+   "overtime_slots": 7,
+   "idle_slots": 36,
+   "total": 484.5
+  }
+ },
+ {
+  "label": "alpha",
+  "instance": "M1_8d_70p",
+  "seed": 2,
+  "extra": 0.9,
+  "cost": 512.5,
+  "time": 6.148577326999657,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 306.5,
+   "deviation_minutes_avg": 35.142857142857146,
+   "overtime_slots": 6,
+   "idle_slots": 43,
+   "total": 512.5
+  }
+ },
+ {
+  "label": "alpha",
+  "instance": "M1_8d_70p",
+  "seed": 0,
+  "extra": 0.99,
+  "cost": 465.5,
+  "time": 67.8387523089998,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 313.5,
+   "deviation_minutes_avg": 36.42857142857143,
+   "overtime_slots": 5,
+   "idle_slots": 26,
+   "total": 465.5
+  }
+ },
+ {
+  "label": "alpha",
+  "instance": "M1_8d_70p",
+  "seed": 1,
+  "extra": 0.99,
+  "cost": 443.5,
+  "time": 68.8355846039999,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 275.5,
+   "deviation_minutes_avg": 38.142857142857146,
+   "overtime_slots": 5,
+   "idle_slots": 34,
+   "total": 443.5
+  }
+ },
+ {
+  "label": "alpha",
+  "instance": "M1_8d_70p",
+  "seed": 2,
+  "extra": 0.99,
+  "cost": 447.0,
+  "time": 64.44240467700024,
+  "info": {
+   "overlap_slots": 0,
+   "unassigned": 0,
+   "unassigned_cost": 0.0,
+   "deviation_cost": 289.0,
+   "deviation_minutes_avg": 37.07142857142857,
+   "overtime_slots": 5,
+   "idle_slots": 29,
+   "total": 447.0
+  }
+ }
+]

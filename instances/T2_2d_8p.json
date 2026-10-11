@@ -1,0 +1,92 @@
+{
+ "name": "T2_2d_8p",
+ "slot_minutes": 15,
+ "horizon_slots": 48,
+ "doctors": [
+  {
+   "id": 0,
+   "name": "Arsts_1",
+   "specialties": [
+    "gimenes_arsts"
+   ],
+   "work_start": 0,
+   "work_end": 24
+  },
+  {
+   "id": 1,
+   "name": "Arsts_2",
+   "specialties": [
+    "kardiologs",
+    "dermatologs"
+   ],
+   "work_start": 8,
+   "work_end": 32
+  }
+ ],
+ "patients": [
+  {
+   "id": 0,
+   "age": 57,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 1,
+   "preferred": 13
+  },
+  {
+   "id": 1,
+   "age": 38,
+   "urgency": 2,
+   "specialty": "gimenes_arsts",
+   "duration": 4,
+   "preferred": 25
+  },
+  {
+   "id": 2,
+   "age": 83,
+   "urgency": 2,
+   "specialty": "kardiologs",
+   "duration": 4,
+   "preferred": 34
+  },
+  {
+   "id": 3,
+   "age": 22,
+   "urgency": 3,
+   "specialty": "gimenes_arsts",
+   "duration": 3,
+   "preferred": 5
+  },
+  {
+   "id": 4,
+   "age": 66,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 2,
+   "preferred": 33
+  },
+  {
+   "id": 5,
+   "age": 47,
+   "urgency": 1,
+   "specialty": "dermatologs",
+   "duration": 1,
+   "preferred": 20
+  },
+  {
+   "id": 6,
+   "age": 64,
+   "urgency": 1,
+   "specialty": "gimenes_arsts",
+   "duration": 4,
+   "preferred": 35
+  },
+  {
+   "id": 7,
+   "age": 71,
+   "urgency": 1,
+   "specialty": "kardiologs",
+   "duration": 3,
+   "preferred": 23
+  }
+ ]
+}
